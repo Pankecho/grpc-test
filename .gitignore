@@ -1,0 +1,30 @@
+#IntelliJ IDEA
+.idea
+*.iml
+
+.DS_Store
+
+#codeKit
+**/config.codekit
+*.codekit
+
+#Maven
+target/
+
+#Netbeans
+nb-configuration.xml
+nbactions.xml
+
+#NodeJS
+*/node
+*/node_modules
+
+#Generated files
+**/generated
+
+# Compiled Binary
+/reviews
+
+#Test results
+!/tests/postman
+
